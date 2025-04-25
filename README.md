@@ -24,3 +24,5 @@ We explore and compare:
 - Scikit-learn
 - NumPy
 - Matplotlib (optional for visualization)
+
+for more clearification open notebook 
